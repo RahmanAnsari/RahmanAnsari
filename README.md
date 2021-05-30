@@ -32,7 +32,22 @@
 
 </br>
 
-<a href="buymeacoffee.com/rahmanansari" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<p align="center">
+<a href="https://www.buymeacoffee.com/rahmanansari" target="_blank"><img src="https://raw.githubusercontent.com/appcraftstudio/buymeacoffee/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" width="20%" height="10%"></a>
+</p>
+  
+</br>
+
+### Languages and Tools:
+<p align="center">
+<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="center" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="center" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="center" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://nextjs.com" target="_blank"><img align="center" alt="NextJS" height ="42px" src="https://raw.githubusercontent.com/RahmanAnsari/NextJS-Boilerplate/main/images/available.png?token=AG5LWLMG7XOFZTB5EOKXXNTAWPK6O"></a>
+</p>
 
 </br>
 
@@ -58,7 +73,7 @@ const thai = {
 }
 ```
 
-### Github Stats
+### 📊 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanAnsari)](https://github.com/RahmanAnsari/RahmanAnsari)
 
