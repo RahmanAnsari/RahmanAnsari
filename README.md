@@ -19,8 +19,11 @@
   <a href="https://www.facebook.com/Rahman.Abdur.11"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
   <a href="https://www.instagram.com/failedtamilian/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   <a href="https://twitter.com/failedtamilian"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-  <a href="https://www.linksedin.com/in/mohamed-abdur-rahman-a644877a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/mohamed-abdur-rahman-a644877a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="bitclout.com/u/abdurrahman"> <img src="https://img.shields.io/badge/Bitclout-000000?style=for-the-badge&logo=bitclout&logoColor=white"> </a>
+  <a href="https://owl.hashnode.dev/"> <img src="https://img.shields.io/badge/hashnode-3726FF?style=for-the-badge&logo=hashnode&logoColor=white"> </a>
+  <a href="https://dev.to/rahmanansari"> <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+
 </p>
 
 </br>
@@ -35,9 +38,10 @@
 </br>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/rahmanansari" target="_blank"><img src="https://raw.githubusercontent.com/appcraftstudio/buymeacoffee/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" width="20%" height="10%"></a>
+<img src="https://img.shields.io/discord/848894520636473386?color=blue&label=Discord&style=for-the-badge">
+<img src="https://img.shields.io/gitter/room/RahmanAnsari/general-chat?color=%23e62e61&label=CHAT&style=for-the-badge">
 </p>
-  
+   
 </br>
 
 ### Languages and Tools:
@@ -94,6 +98,12 @@ const thai = {
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</br>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/rahmanansari" target="_blank"><img src="https://raw.githubusercontent.com/appcraftstudio/buymeacoffee/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" width="20%" height="10%"></a>
+</p>
 
 </br>
 
