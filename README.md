@@ -80,9 +80,9 @@ const thai = {
 
 ---
 
-### Github Stats
+### Github
 <details>
-  <summary>&#127942 <b>GitHub Stats</b></summary>
+  <summary>&#127942 <b>Stats</b></summary>
   
 </br>
 
