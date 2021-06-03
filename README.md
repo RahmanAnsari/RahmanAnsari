@@ -59,6 +59,7 @@
 ### OpenSource Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahmanAnsari&repo=xkye-lang)](https://github.com/RahmanAnsari/xkye-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahmanAnsari&repo=xkye_python)](https://github.com/RahmanAnsari/xkye_python)
 
 </br>
 
