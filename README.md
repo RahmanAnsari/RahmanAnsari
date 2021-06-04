@@ -30,7 +30,7 @@
 
 </br>
 
- - :wrench: I'm currently working on [GrubChirp](https://github.com/grubchirp) and other [side projects]()!
+ - :wrench: I'm currently working on [GrubChirp](https://github.com/grubchirp) and other [side projects](https://github.com/RahmanAnsari/xkye-lang)!
  - :dart: I'm currently learning Solidity, DRF, React Native and DB Engineering
  - :books: Check my TBR Pile at [Goodreads](https://www.goodreads.com/aaryanrahi)
  - :video_game: Active gamer
