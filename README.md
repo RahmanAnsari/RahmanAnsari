@@ -26,6 +26,8 @@
 
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/RahmanAnsari/RahmanAnsari/blob/main/images/coder.gif?raw=true" width="500" height="320" />
+
 </br>
 
  - :wrench: I'm currently working on [GrubChirp](https://github.com/grubchirp) and other [side projects]()!
