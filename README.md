@@ -33,7 +33,7 @@
  - :wrench: I'm currently working on [GrubChirp](https://github.com/grubchirp) and other [side projects](https://github.com/RahmanAnsari/xkye-lang)!
  - :dart: I'm currently learning Solidity, DRF, React Native and DB Engineering
  - :books: Check my TBR Pile at [Goodreads](https://www.goodreads.com/aaryanrahi)
- - :video_game: Active gamer
+ - :video_game: Avid Gamer & member of [The Toxic Cult eSports](https://www.youtube.com/channel/UCDjaWXLirs2f4XEex2ivvdQ)
  - :question: Ask me about anything!
  - :e-mail: Reach me via [email](mailto:iamrahmanansari@gmail.com) or social
 
