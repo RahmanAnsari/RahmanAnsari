@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=An+Alien+From+Mars;Open-Source+Developer;Avid+Gamer;and+a+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 <p align="center">
-𝙰 𝚙𝚊𝚛𝚝 𝚝𝚒𝚖𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙𝚜 𝚊𝚗𝚍 𝚌𝚛𝚢𝚙𝚝𝚘 𝚌𝚘𝚒𝚗𝚜.  𝙸 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚖𝚊𝚗𝚊𝚐𝚎 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚏𝚘𝚛 𝚖𝚢 𝚜𝚝𝚊𝚛𝚝𝚞𝚙 <a href="https://github.com/initdcodedev">[𝚒𝚗𝚒𝚝::𝚍𝚌𝚘𝚍𝚎]</a> 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
+𝙰 𝚙𝚊𝚛𝚝 𝚝𝚒𝚖𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 niche specific micro saas platforms. 𝙸 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚖𝚊𝚗𝚊𝚐𝚎 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚏𝚘𝚛 𝚖𝚢 𝚜𝚝𝚊𝚛𝚝𝚞𝚙 CodaCrew Code Labs.
 </p>
 
 <p align="center"> 
@@ -15,27 +15,15 @@
 
 </br>
 
-<p align="center">
-  <a href="https://www.facebook.com/Rahman.Abdur.11"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
-  <a href="https://www.instagram.com/failedtamilian/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-  <a href="https://twitter.com/failedtamilian"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/mohamed-abdur-rahman-a644877a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="bitclout.com/u/abdurrahman"> <img src="https://img.shields.io/badge/Bitclout-000000?style=for-the-badge&logo=bitclout&logoColor=white"> </a>
-  <a href="https://owl.hashnode.dev/"> <img src="https://img.shields.io/badge/hashnode-3726FF?style=for-the-badge&logo=hashnode&logoColor=white"> </a>
-  <a href="https://dev.to/rahmanansari"> <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
-
-</p>
-
 <img align="right" alt="GIF" src="https://github.com/RahmanAnsari/RahmanAnsari/blob/main/images/coder.gif?raw=true" width="500" height="320" />
 
 </br>
 
- - :wrench: I'm currently working on [GrubChirp](https://github.com/grubchirp) and other [side projects](https://github.com/RahmanAnsari/xkye-lang)!
+ - :wrench: I'm currently working on **CLAWZY** and other **side projects**!
  - :dart: I'm currently learning Solidity, DRF, React Native and DB Engineering
  - :books: Check my TBR Pile at [Goodreads](https://www.goodreads.com/aaryanrahi)
- - :video_game: Avid Gamer & member of [The Toxic Cult eSports](https://www.youtube.com/channel/UCDjaWXLirs2f4XEex2ivvdQ)
  - :question: Ask me about anything!
- - :e-mail: Reach me via [email](mailto:iamrahmanansari@gmail.com) or social
+ - :e-mail: Reach me via [email](mailto:iamrahmanansari@gmail.com)
 
 </br>
 
